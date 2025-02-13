@@ -1,3 +1,3 @@
-Name: [Mc Janes Jardiolin]
-Course: [BSIT-3Q]
-Interests in programming: [c++,python]
+Name: Mc James Jardiolin
+Course: BSIT-3Q
+Interests in programming: c++,python
